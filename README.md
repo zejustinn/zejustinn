@@ -4,4 +4,6 @@ My name is Jose Justin(also known as Zé). I've been a software developer since 
 
 I hope you enjoy your stay 😄
 
-![Developer GIF](./public/youre_interested_right.gif)
+<p align="center">
+  <img src="./public/youre_interested_right.gif" alt="Me with sun glasses turning a serious face to the camera and then removing the glasses and smiling" />
+</p>
