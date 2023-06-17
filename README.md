@@ -7,3 +7,8 @@ I hope you enjoy your stay 😄
 <p align="center">
   <img src="./public/youre_interested_right.gif" alt="Me with sun glasses turning a serious face to the camera and then removing the glasses and smiling" />
 </p>
+
+<p align="center">
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=zejustinn&show_icons=true&theme=merko&custom_title=My+GitHub+status&text_bold=false" alt="GitHub status" />
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zejustinn&layout=compact&theme=merko&langs_count=8&custom_title=Most+used+languages" alt="Top Langs" />
+</p>
