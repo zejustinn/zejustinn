@@ -12,3 +12,14 @@ I hope you enjoy your stay 😄
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=zejustinn&show_icons=true&theme=merko&custom_title=My+GitHub+status&text_bold=false" alt="GitHub status" />
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zejustinn&layout=compact&theme=merko&langs_count=8&custom_title=Most+used+languages" alt="Top Langs" />
 </p>
+
+<p align="center">
+  Main technologies
+</p>
+
+<p align="center">
+  <img height="100em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" alt="Nodejs icon"/>
+  <img height="100em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="Typescript icon"/>
+  <img height="100em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React icon"/>
+  <img height="100em"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="Amazon Web Services icon"/>
+</p>
