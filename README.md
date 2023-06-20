@@ -18,8 +18,10 @@ I hope you enjoy your stay 😄
 </p>
 
 <p align="center">
-  <img height="100em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" alt="Nodejs icon"/>
-  <img height="100em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="Typescript icon"/>
-  <img height="100em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React icon"/>
-  <img height="100em"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="Amazon Web Services icon"/>
+  <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" alt="Nodejs icon"/>
+  <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="Typescript icon"/>
+  <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML 5 icon"/>
+  <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS 3 icon"/>
+  <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React icon"/>
+  <img height="80em"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="Amazon Web Services icon"/>
 </p>
