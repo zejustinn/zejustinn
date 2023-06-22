@@ -1,5 +1,5 @@
 <h1>
-  🧙‍♂️ Not all who wander are lost, but I sure am
+  🧙‍♂️ Not all who wander are lost
 </h1>
 
 Welcome to my GitHub, I'm really happy to have you here 😊
